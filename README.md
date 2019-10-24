@@ -1,7 +1,7 @@
 # ECE362_miniproj
 ## ECE 362 - Microprocesor System and Interfacing
 ## Sudoku game
-Participated Winter 2018 Spark Challenge
+Participated Fall 2018 Spark Challenge
 ### Group members:
 * Nguyen Bao Quang
 * Yuan-Cheng Chen
